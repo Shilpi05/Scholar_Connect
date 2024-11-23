@@ -1,15 +1,14 @@
-
 # College Management System
 
 The College Management System is a MERN Stack-based system with three different login portals for students, faculty, and admin.
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+Client: React, Redux, TailwindCSS
 
-**Server:** Node, Express
+Server: Node, Express
 
-**Database:** MongoDB
+Database: MongoDB
 
 ## Student Features
 
@@ -19,6 +18,7 @@ The College Management System is a MERN Stack-based system with three different 
 - Notices: Access to view notices
 - Timetables: Access to view their own timetables
 - Password Update: Ability for students to update their passwords
+- View Attendance: Student can view attendance
 
 ## Faculty Features
 
@@ -28,6 +28,7 @@ The College Management System is a MERN Stack-based system with three different 
 - Materials Upload: Ability for faculty to upload course materials
 - Timetable Management: Ability for faculty to manage timetables
 - Exam Mark Recording: Ability for faculty to record internal and external exam marks
+- Upload Attendance: Faculty can upload attendance
 
 ## Admin Features
 
@@ -38,12 +39,7 @@ The College Management System is a MERN Stack-based system with three different 
 
 ## Setup Instructions
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/krish-7104/College-Management-System
-   ```
-
+1. //https://github.com/Shilpi05/ScholarConnect.git
 2. **Install dependencies:**
 
    ```bash
@@ -55,7 +51,7 @@ The College Management System is a MERN Stack-based system with three different 
 
 3. **Setup environment variables:**
 
-  - I have provided .env.sample in both frontend and backend using that create .env file
+- I have provided .env.sample in both frontend and backend using that create .env file
 
 4. **Run the admin seeder:**
 
@@ -66,7 +62,7 @@ The College Management System is a MERN Stack-based system with three different 
 
    - **Login ID:** `123456`
    - **Password:** `admin123`
-  
+
    - Using this login to the admin account and from admin you can add new faculty, student and admins!
 
 5. **Run the backend server:**
@@ -82,9 +78,3 @@ The College Management System is a MERN Stack-based system with three different 
    cd ../frontend
    npm start
    ```
-
-## For Any Doubt Feel Free To Contact Me 🚀
-
-- [My Website](http://krishjotaniya.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/krishjotaniya/)
-- [krishjotaniya71@gmail.com](mailto:krishjotaniya71@gmail.com)
