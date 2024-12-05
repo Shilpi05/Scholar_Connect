@@ -39,7 +39,7 @@ Database: MongoDB
 
 ## Setup Instructions
 
-1. //https://github.com/Shilpi05/ScholarConnect.git
+1. //https://github.com/Shilpi05/Scholar_Connect.git
 2. **Install dependencies:**
 
    ```bash
